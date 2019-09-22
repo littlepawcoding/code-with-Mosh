@@ -1,6 +1,6 @@
  # Code with Mosh
  
- ## JavaScript Basics for Beginners
+ ### JavaScript Basics for Beginners
  
  * Practice using GitHub for projects
  * Somewhere to store exercises from the course
