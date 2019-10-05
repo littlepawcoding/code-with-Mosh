@@ -2,14 +2,14 @@
 
 // 1- What is the result of “true && false”?
 // a- true
-// b- false - ANSWER
+// b- false - ANSWER [CORRECT ANSWER!]
 // c- null
 // d- undefined
 
 // true AND false - AND && both have to be true to return true.
 
 // 2- What is the result of “(true && false) || true”?
-// a- true - ANSWER
+// a- true - ANSWER [CORRECT ANSWER!]
 // b- false
 // c- null
 // d- undefined
@@ -21,7 +21,7 @@
 // let y = (x > 10) ? 1 : 0;
 // a- 10
 // b- 1
-// c- 0 - ANSWER
+// c- 0 - ANSWER [CORRECT ANSWER!]
 // d- 11
 
 // if 10 is greater than 10 then return 1 otherwise return 0
@@ -30,7 +30,7 @@
 
 // 4- What is the value of x?
 // let x = (2 + 3) * (4 + 5);
-// a- 45 - ANSWER
+// a- 45 - ANSWER [CORRECT ANSWER!]
 // b- 25
 // c- 20
 // d- 40
@@ -42,12 +42,12 @@
 // a- ‘1’ === 1;
 // b- 1 == 1
 // c- 1 === 1
-// d- b and c - ANSWER
+// d- b and c - ANSWER [CORRECT ANSWER!]
 
 // 6- What is the value of x?
 // let x = (1 == true);
 // a- 1 - ANSWER
-// b- true
+// b- true [CORRECT ANSWER!] // be careful, loose equality operators return a boolean!
 // c- false
 // d- undefined
 
@@ -57,7 +57,7 @@
 // a- 10
 // b- 5
 // c- 15
-// d- true - ANSWER
+// d- true - ANSWER [CORRECT ANSWER!]
 
 // 10 > 5 // true
 // 10 < 15 // true
@@ -67,7 +67,7 @@
 // let x = 5;
 // x += 3;
 // a- 3
-// b- 8 - ANSWER
+// b- 8 - ANSWER [CORRECT ANSWER!]
 // c- 15
 // d- 5
 
@@ -76,7 +76,7 @@
 // 9- What is the value of y?
 // let x = 10;
 // let y = x++;
-// a- 10
+// a- 10 [CORRECT ANSWER!] // be careful with which side the ++ is on! ++x would be 11 but x++ is 10
 // b- 11 - ANSWER
 // c- 12
 // d- 13
@@ -87,6 +87,9 @@
 // a- 1
 // b- 2
 // c- false
-// d- true - ANSWER
+// d- true - ANSWER [CORRECT ANSWER!]
 
 // 1 is not equal to 2 // true
+
+// 8 out of 10!
+// Well done :)
