@@ -27,3 +27,14 @@ function max(a, b) {
 // hmm this is still not working
 
 // Solution:
+// so close! I forgot to return!
+
+// not the most optimal way but simple
+
+let number = max(23, 64);
+console.log(number);
+
+function max(a, b) {
+  if (a > b) return a;
+  else return b;
+}
